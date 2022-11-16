@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "twitter-login",
+  "description": "This is just a sample twitter authentication example. Initially I used React on this one. and We're not using any React here, I had to refactor a bit.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC"
+}
